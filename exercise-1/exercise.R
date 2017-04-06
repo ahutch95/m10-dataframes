@@ -2,7 +2,7 @@
 
 # Create a vector of the number of points the Seahawks scored the first 4 games of last season
 # Hint: (google "Seahawks scores 2016")
-
+pointsScored <-(36, 10, 10, )
 # Create a vector of the number of points the Seahawks have allowed to be scored against them in the first 4 games
 
 
